@@ -11,5 +11,5 @@
 </h3>
 
 <p align="center">
-I'm a Cybersecurity Engineer with a Bachelor's degree in Communications and Electronics Engineering. With a strong IT background and hands-on experience in enterprise environments, I specialize in SOC operations, incident response, vulnerability management, and defensive security. This portfolio showcases my projects, investigations, and continuous learning journey.
+A Cybersecurity Engineer with a Bachelor's degree in Communications and Electronics Engineering. With a strong IT background and hands-on experience in enterprise environments, I specialize in SOC operations, incident response, vulnerability management, and defensive security. This portfolio showcases my projects, investigations, and continuous learning journey.
 </p>
