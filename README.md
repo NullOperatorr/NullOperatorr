@@ -12,5 +12,6 @@
 
 <p align="center">
   Turning mistakes into writeups. curious mind diving deep into the Cybersecurity world.
+  
 A Cybersecurity Engineer with a Bachelor's degree in Engineering. With a strong IT background and hands-on experience in enterprise environments, I specialize in SOC operations, vulnerability management, and defensive security. This portfolio showcases my projects, investigations, and continuous learning journey.
 </p>
